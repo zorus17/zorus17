@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 Cedrick Here Welcome to my Profile</h1>
+<h1 align="center">Hey There! 👋 Cedrick Here, Welcome to my Profile!</h1>
 
 - 🔭 I’m currently working as **Data Analyst**
 
